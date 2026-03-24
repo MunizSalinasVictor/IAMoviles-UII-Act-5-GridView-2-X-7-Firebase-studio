@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+--- 
 
 Crea una aplicación en Flutter (Dart) en un solo archivo main.dart que muestre un GridView de 2 columnas × 7 filas (total 14 tarjetas) con imágenes desde URLs de GitHub.
 
@@ -72,3 +73,6 @@ Requisitos:
 5. ENTREGA:
    Genera el código completo de main.dart listo para copiar y pegar en un proyecto Flutter nuevo.
    Asegúrate de que la app compile sin errores y muestre correctamente los 14 animes en 2 columnas × 7 filas.
+
+
+---
